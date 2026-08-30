@@ -1,108 +1,118 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Eric Jay — Technology Operations · Automation · Computer Science" width="100%" />
+  <img src="./assets/header.svg" alt="Eric Jay — Technology Operations · Automation · AI" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://ericjay.net">
+    <img src="https://img.shields.io/badge/WEBSITE-ericjay.net-0B1220?style=for-the-badge&logo=safari&logoColor=white" alt="Eric Jay website" />
+  </a>
+  <a href="https://www.linkedin.com/in/eric-j-44406110b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Eric Jay on LinkedIn" />
+  </a>
   <a href="mailto:ericnjay1996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ericnjay1996%40gmail.com-0B1220?style=flat-square&logo=gmail&logoColor=white" alt="Email Eric Jay" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Eric Jay" />
   </a>
-  <a href="https://github.com/ericjaytech">
-    <img src="https://img.shields.io/badge/GitHub-%40ericjaytech-0B1220?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ericjaytech&style=flat-square&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-## Hello — I'm Eric
+## Technology operations → automation → engineering
 
-I build and improve the operational systems behind technology teams: **asset lifecycle, infrastructure support, service processes, vendor coordination, documentation and practical automation**.
+I improve the systems behind technology teams — **asset lifecycle, infrastructure support, service processes, operational documentation and practical automation**.
 
-My background spans enterprise environments at **Microsoft** and **Google (via Astreya)**. I am now building **Eric Jay Technology Consulting** while completing a part-time **MS in Computer Science & Artificial Intelligence at Boston University**.
+My background spans enterprise technology environments at **Microsoft** and **Google (via Astreya)**. I am now building **Eric Jay Technology Consulting** while completing a part-time **MS in Computer Science & Artificial Intelligence at Boston University**.
 
-```text
-OPERATIONS  →  AUTOMATION  →  SOFTWARE  →  AI
-   │               │             │          │
-   └──── make systems clearer, faster, more reliable ────┘
-```
+> **Current direction:** turn operational friction into reliable processes, useful automation and well-engineered software.
 
-### What I bring
+## Selected projects
 
-<table>
+<!-- PROJECTS:START -->
+<table width="100%">
+<tr>
+<td>
+<strong>Projects refresh automatically.</strong><br/>
+<sub>Run the “Refresh featured projects” workflow once after installing this README. It will populate this section with Eric’s latest public, non-fork repositories and keep it current.</sub>
+</td>
+</tr>
+</table>
+<!-- PROJECTS:END -->
+
+## Where I add value
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-#### 🧰 Technology operations
-- IT asset lifecycle & inventory
-- Data-centre operations
-- Hardware diagnostics & RMA
-- Procurement & vendor coordination
-- Ticket / SLA management
-- Workplace technology support
-
+<strong>Technology operations</strong>
+<ul>
+<li>IT asset lifecycle &amp; inventory</li>
+<li>Data-centre operations</li>
+<li>Hardware diagnostics &amp; RMA</li>
+<li>Procurement &amp; vendor coordination</li>
+<li>Ticket / SLA management</li>
+<li>Workplace technology support</li>
+</ul>
 </td>
 <td width="50%" valign="top">
-
-#### ⚙️ Systems improvement
-- Process design & standardisation
-- Operational documentation
-- Team training & knowledge transfer
-- Data-informed workflow improvement
-- Practical automation
-- Building towards software & AI engineering
-
+<strong>Build &amp; improve</strong>
+<ul>
+<li>Process design &amp; standardisation</li>
+<li>Practical workflow automation</li>
+<li>Operational documentation</li>
+<li>Training &amp; knowledge transfer</li>
+<li>Data-informed process improvement</li>
+<li>Software &amp; AI engineering development</li>
+</ul>
 </td>
 </tr>
 </table>
 
-### Selected impact
+## Evidence of impact
 
-| | Outcome |
-|---|---|
-| **Microsoft** | Contributed to a reported **15% month-on-month reduction in stock discrepancies** through cycle-count audits and stronger inventory controls |
-| **Microsoft** | Cross-functional coordination contributed to **~$20k average quarterly savings** against pre-2024 costs |
-| **Google / Astreya** | Ranked among the **top three resolvers** for tickets and hardware orders in a 30+ person EMEA team |
-| **Google / Astreya** | Reduced high-severity SLA resolution time by **6 hours** against a 24-hour baseline |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<strong>15%</strong><br/>
+<sub>Reported month-on-month reduction in stock discrepancies, supported by stronger cycle-count and inventory controls at Microsoft.</sub>
+</td>
+<td width="50%" valign="top">
+<strong>~$20k</strong><br/>
+<sub>Average quarterly savings against pre-2024 costs, supported by cross-functional coordination on part availability and SLA delivery at Microsoft.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Top 3</strong><br/>
+<sub>Resolver for tickets and hardware orders within a 30+ person EMEA team while assigned by Astreya on-site at Google.</sub>
+</td>
+<td width="50%" valign="top">
+<strong>−6 hours</strong><br/>
+<sub>Reduction in high-severity SLA resolution time against a 24-hour baseline while maintaining accurate asset records.</sub>
+</td>
+</tr>
+</table>
 
-### Now building
+## Current focus
 
-```yaml
-consultancy:
-  name: Eric Jay Technology Consulting
-  focus:
-    - IT asset lifecycle
-    - workplace technology operations
-    - service-process design
-    - practical automation
-  availability: September 2026
+<table width="100%">
+<tr>
+<td width="24%"><strong>Consulting</strong></td>
+<td>IT asset lifecycle, workplace technology operations, service-process design and practical automation.</td>
+</tr>
+<tr>
+<td><strong>Study</strong></td>
+<td>MS in Computer Science &amp; Artificial Intelligence — Boston University, part-time.</td>
+</tr>
+<tr>
+<td><strong>Building in public</strong></td>
+<td>Automation, software and applied AI projects as they become useful enough to ship.</td>
+</tr>
+</table>
 
-learning:
-  degree: MS Computer Science & Artificial Intelligence
-  university: Boston University
-  mode: part-time
-```
+## Credentials
 
-### Toolbox
+**CompTIA A+** · **Google Data Analytics Certificate** · **BA (Hons), English Literature — Birkbeck, University of London**
 
-<p>
-  <img src="https://img.shields.io/badge/IT_Asset_Lifecycle-111827?style=for-the-badge" alt="IT Asset Lifecycle" />
-  <img src="https://img.shields.io/badge/Data_Centre_Operations-111827?style=for-the-badge" alt="Data Centre Operations" />
-  <img src="https://img.shields.io/badge/Process_Improvement-111827?style=for-the-badge" alt="Process Improvement" />
-  <img src="https://img.shields.io/badge/Technical_Support-111827?style=for-the-badge" alt="Technical Support" />
-  <img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge" alt="Automation" />
-  <img src="https://img.shields.io/badge/Computer_Science-0F766E?style=for-the-badge" alt="Computer Science" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
-</p>
+<sub>Leadership beyond technology: former President and 1st XV Captain of Birkbeck RFC; Captain/Coach at SOAS RFC.</sub>
 
-### Credentials
-
-- 🎓 **MS, Computer Science & Artificial Intelligence** — Boston University *(in progress)*
-- 🎓 **BA (Hons), English Literature** — Birkbeck, University of London
-- 🛠️ **CompTIA A+**
-- 📊 **Google Data Analytics Certificate**
-- 🏉 Former university rugby **President, 1st XV Captain, Captain & Coach**
-
----
-
-### Contribution activity
+## Contribution activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericjaytech/ericjaytech/output/github-contribution-grid-snake-dark.svg">
@@ -110,11 +120,11 @@ learning:
   <img alt="Eric Jay's GitHub contribution animation" src="https://raw.githubusercontent.com/ericjaytech/ericjaytech/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>
-This profile is intentionally a work in progress. Public projects, automation experiments and coursework will appear here as they ship.
-</sub>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ericjaytech&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Eric Jay profile views" />
+</p>
 
 <p align="center">
-  <b>Interested in technology operations, automation or consulting?</b><br/>
-  <a href="mailto:ericnjay1996@gmail.com">Get in touch →</a>
+  <strong>Technology operations. Practical automation. Better systems.</strong><br/>
+  <a href="mailto:ericnjay1996@gmail.com">Start a conversation →</a>
 </p>

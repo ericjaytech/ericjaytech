@@ -1,38 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img" aria-labelledby="title desc">
   <title id="title">Eric Jay</title>
-  <desc id="desc">Technology Operations, Automation and Computer Science</desc>
+  <desc id="desc">Technology Operations, Automation and AI</desc>
+
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1f2937" stroke-width="1"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#223047" stroke-width="1"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#101827"/>
-    </linearGradient>
+    <clipPath id="clip">
+      <rect width="1200" height="292" rx="24"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="330" rx="24" fill="url(#fade)"/>
-  <rect width="1200" height="330" rx="24" fill="url(#grid)" opacity=".55"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="292" fill="#0B1220"/>
+    <rect width="1200" height="292" fill="url(#grid)" opacity=".42"/>
 
-  <circle cx="1008" cy="76" r="4" fill="#14b8a6"/>
-  <circle cx="1032" cy="76" r="4" fill="#475569"/>
-  <circle cx="1056" cy="76" r="4" fill="#475569"/>
+    <path d="M0 246 C250 210 370 280 610 246 S970 212 1200 246"
+          fill="none" stroke="#152238" stroke-width="2"/>
 
-  <path d="M86 86h92" stroke="#14b8a6" stroke-width="4" stroke-linecap="round"/>
-  <text x="86" y="158" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">ERIC JAY</text>
-  <text x="89" y="207" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="500" letter-spacing="1.5">TECHNOLOGY OPERATIONS  ·  AUTOMATION  ·  COMPUTER SCIENCE</text>
+    <path d="M72 62H158" stroke="#2DD4BF" stroke-width="4" stroke-linecap="round"/>
 
-  <g transform="translate(89 250)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">
-    <text x="0" y="0" fill="#14b8a6">$</text>
-    <text x="24" y="0" fill="#cbd5e1">build reliable systems</text>
-    <rect x="252" y="-16" width="10" height="20" fill="#14b8a6" opacity=".9">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+    <text x="72" y="132"
+          fill="#F8FAFC"
+          font-family="Inter, Segoe UI, Arial, sans-serif"
+          font-size="62"
+          font-weight="700"
+          letter-spacing="-1.8">ERIC JAY</text>
 
-  <g transform="translate(936 188)">
-    <rect x="0" y="0" width="150" height="58" rx="12" fill="#111827" stroke="#334155"/>
-    <circle cx="30" cy="29" r="8" fill="#14b8a6"/>
-    <path d="M52 22h70M52 35h48" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+    <text x="74" y="177"
+          fill="#94A3B8"
+          font-family="Inter, Segoe UI, Arial, sans-serif"
+          font-size="22"
+          font-weight="600"
+          letter-spacing="1.6">TECHNOLOGY OPERATIONS  ·  AUTOMATION  ·  AI</text>
+
+    <g transform="translate(74 222)"
+       font-family="ui-monospace, SFMono-Regular, Consolas, monospace"
+       font-size="16">
+      <text x="0" y="0" fill="#2DD4BF">$</text>
+      <text x="24" y="0" fill="#CBD5E1">build reliable systems</text>
+      <rect x="246" y="-15" width="9" height="19" rx="1" fill="#2DD4BF">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- Abstract operational system motif -->
+    <g transform="translate(870 65)">
+      <path d="M28 51H91M119 51H181M209 51H252"
+            stroke="#334155" stroke-width="2"/>
+      <path d="M54 51V118H116M181 51V118H223"
+            fill="none" stroke="#223047" stroke-width="2"/>
+
+      <rect x="0" y="28" width="56" height="46" rx="10"
+            fill="#101A2C" stroke="#334155"/>
+      <circle cx="28" cy="51" r="7" fill="#2DD4BF"/>
+
+      <rect x="91" y="28" width="56" height="46" rx="10"
+            fill="#101A2C" stroke="#334155"/>
+      <path d="M108 51h22" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+
+      <rect x="181" y="28" width="56" height="46" rx="10"
+            fill="#101A2C" stroke="#334155"/>
+      <path d="M198 44h22M198 57h15" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+
+      <rect x="88" y="96" width="56" height="44" rx="10"
+            fill="#101A2C" stroke="#334155"/>
+      <circle cx="106" cy="118" r="5" fill="#2DD4BF"/>
+      <path d="M118 118h12" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+
+      <rect x="195" y="96" width="56" height="44" rx="10"
+            fill="#101A2C" stroke="#334155"/>
+      <path d="M210 118l9 9 17-21"
+            fill="none" stroke="#2DD4BF" stroke-width="4"
+            stroke-linecap="round" stroke-linejoin="round"/>
+
+      <circle cx="270" cy="18" r="4" fill="#2DD4BF"/>
+      <circle cx="288" cy="18" r="4" fill="#475569"/>
+      <circle cx="306" cy="18" r="4" fill="#475569"/>
+    </g>
+
+    <text x="1124" y="264"
+          text-anchor="end"
+          fill="#475569"
+          font-family="ui-monospace, SFMono-Regular, Consolas, monospace"
+          font-size="12"
+          letter-spacing="1">ERICJAYTECH</text>
   </g>
 </svg>
