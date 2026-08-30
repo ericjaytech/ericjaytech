@@ -27,9 +27,30 @@ My background spans enterprise technology environments at **Microsoft** and **Go
 <!-- PROJECTS:START -->
 <table width="100%">
 <tr>
-<td>
-<strong>Projects refresh automatically.</strong><br/>
-<sub>Run the “Refresh featured projects” workflow once after installing this README. It will populate this section with Eric’s latest public, non-fork repositories and keep it current.</sub>
+<td width="72%" valign="top">
+<a href="https://github.com/ericjaytech/incident-pack"><strong>incident-pack</strong></a><br/>
+<sub>Support engineers collect inconsistent diagnostics and may expose sensitive information</sub>
+</td>
+<td width="28%" align="right" valign="top">
+<code>Python</code><br/><sub>updated Aug 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="72%" valign="top">
+<a href="https://github.com/ericjaytech/fleet-audit"><strong>fleet-audit</strong></a><br/>
+<sub>Small IT teams lack reliable Linux inventory and configuration-drift reporting</sub>
+</td>
+<td width="28%" align="right" valign="top">
+<code>Python</code><br/><sub>updated Aug 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="72%" valign="top">
+<a href="https://github.com/ericjaytech/asset-rma-ledger"><strong>asset-rma-ledger</strong></a><br/>
+<sub>Hardware returns, repairs and vendor cases disappear into spreadsheets</sub>
+</td>
+<td width="28%" align="right" valign="top">
+<code>Repository</code><br/><sub>updated Aug 2026</sub>
 </td>
 </tr>
 </table>
